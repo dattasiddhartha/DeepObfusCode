@@ -4,7 +4,7 @@ Code repository for [DeepObfusCode: Source Code Obfuscation Through Sequence-to-
 
 <h3>Usage</h3>
 
-Import `deepobfuscode` as library, and instal required dependencies.
+Import `deepobfuscode` as library, and install required dependencies. [Obfuscation tests](https://github.com/dattasiddhartha-1/dsource) for reference.
 
 1. Run `encryption/encryption()` to generate obfuscated code, then generate keys and verify evaluation with `encryption/decryption()`.
 2. Run `execution/obfuscated_execution()` to execute obfudcated code.
