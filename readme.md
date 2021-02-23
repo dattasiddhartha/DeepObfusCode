@@ -2,7 +2,9 @@
 
 Automated source code obfuscation with sequence-to-sequence network. 
 
-Code repository for [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/abs/1909.01837). [pip](https://pypi.org/project/deepobfuscode/) package also available.
+Code repository for [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://arxiv.org/abs/1909.01837). 
+
+[pip](https://pypi.org/project/deepobfuscode/) package also available.
 
 <h3>Usage</h3>
 
